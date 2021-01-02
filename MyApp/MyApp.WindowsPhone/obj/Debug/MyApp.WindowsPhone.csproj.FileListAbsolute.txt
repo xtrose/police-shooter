@@ -1,0 +1,265 @@
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\App.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\MenuMain.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\MyApp.WindowsPhone.xr.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\MyApp.WindowsPhone.exe
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\MyApp.WindowsPhone.pdb
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\resources.pri
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\MyApp.WindowsPhone.build.appxrecipe
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.winmd
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.winmd
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.winmd
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Direct2D1.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Direct3D11.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.DXGI.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.Audio.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.Game.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.Graphics.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.XAudio2.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Direct3D11.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.DXGI.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.Audio.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.Game.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.Graphics.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.XAudio2.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Direct2D1.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MyApp.WindowsPhone.csprojResolveAssemblyReference.cache
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\App.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\MenuMain.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\MenuMain.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\App.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\App.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\MenuMain.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\MenuMain.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MyApp.WindowsPhone.exe
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MyApp.WindowsPhone.pdb
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MyApp.WindowsPhone.csproj.GenerateResource.Cache
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\SharpDX.pri
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\SharpDX\qualifiers.txt
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\priconfig.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\layout.resfiles
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\resources.resfiles
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\pri.resfiles
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game2.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game2.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game2.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game2.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game2.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game3.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game3.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game3.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game3.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game3.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game4.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game4.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game4.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game4.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game4.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\About.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\About.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\About.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\About.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\About.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Exit.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Exit.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Exit.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Exit.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Exit.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game5.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game5.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game5.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game5.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game5.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game6.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game6.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game6.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game6.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game6.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game7.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game7.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game7.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game7.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game7.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Music.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Music.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Music.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Music.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Music.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Settings.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Settings.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Settings.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Settings.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Settings.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Rate.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Rate.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Rate.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Rate.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Rate.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\App.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game8.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Rate.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Settings.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Music.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\About.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Exit.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game7.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game6.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game5.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game4.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game3.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game2.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\Game.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Pages\MenuMain.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\MyApp.WindowsPhone.xr.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\MyApp.WindowsPhone.exe
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\MyApp.WindowsPhone.pdb
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\resources.pri
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\MyApp.WindowsPhone.build.appxrecipe
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.winmd
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.winmd
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.winmd
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Direct2D1.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Direct3D11.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.DXGI.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.Audio.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.Game.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.Graphics.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.XAudio2.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Direct3D11.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.DXGI.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.Audio.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.Game.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Toolkit.Graphics.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.XAudio2.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\bin\Debug\SharpDX.Direct2D1.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MyApp.WindowsPhone.csprojResolveAssemblyReference.cache
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\App.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game8.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game8.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Rate.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Rate.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Settings.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Settings.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Music.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Music.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\About.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\About.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Exit.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Exit.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game7.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game7.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game6.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game6.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game5.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game5.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game4.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game4.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game3.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game3.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game2.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game2.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\MenuMain.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\MenuMain.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\App.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game8.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Rate.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Settings.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Music.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\About.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Exit.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game7.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game6.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game5.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game4.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game3.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game2.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\MenuMain.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\App.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game8.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Rate.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Settings.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Music.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\About.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Exit.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game7.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game6.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game5.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game4.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game3.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game2.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\Game.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\Pages\MenuMain.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MyApp.WindowsPhone.exe
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MyApp.WindowsPhone.pdb
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MyApp.WindowsPhone.csproj.GenerateResource.Cache
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\SharpDX\layout.resfiles
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\SharpDX\layout.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\SharpDX\Resources.resfiles
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\SharpDX\Resources.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\SharpDX\pri.resfiles
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\SharpDX\pri.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\SharpDX\priconfig.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\SharpDX\priconfig.xml.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\SharpDX.pri
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\SharpDX\qualifiers.txt
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\priconfig.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\layout.resfiles
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\resources.resfiles
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\pri.resfiles
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\obj\Debug\ProjectArchitectures.txt

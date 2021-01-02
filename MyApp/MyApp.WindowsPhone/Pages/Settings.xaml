@@ -1,0 +1,57 @@
+﻿<Page
+    x:Class="MyApp.Pages.Settings"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyApp.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Width="800" Height="480">
+
+
+
+    <!--Hauptgrid-->
+    <Grid Background="#FFAFFEF4">
+
+
+        <!--Hintergrundbild-->
+        <Image Source="ms-appx:///Images/About.png" />
+
+        <!--Alpha über Hintergrundbild-->
+        <Rectangle Fill="#CC000000" />
+
+        <!--Überschrift-->
+        <StackPanel Margin="20">
+            <TextBlock Foreground="White" x:Uid="001_settings" Text="Settings" FontSize="30" FontWeight="Bold" Margin="0,0,0,20" />
+            <TextBlock Foreground="White" x:Uid="001_music" FontSize="25">Music</TextBlock>
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,20">
+                <Image Width="60" Source="ms-appx:///Images/Minus.Dark.png" Margin="0,0,10,0" PointerReleased="MM"/>
+                <Rectangle Name="rtM1" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtM2" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtM3" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtM4" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtM5" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtM6" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtM7" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtM8" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtM9" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtM10" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Image Width="60" Source="ms-appx:///Images/Add.Dark.png" PointerReleased="MP" />
+            </StackPanel>
+            <TextBlock Foreground="White" x:Uid="001_effects" FontSize="25">Effects</TextBlock>
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,20">
+                <Image Width="60" Source="ms-appx:///Images/Minus.Dark.png" Margin="0,0,10,0" PointerReleased="EM"/>
+                <Rectangle Name="rtE1" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtE2" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtE3" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtE4" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtE5" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtE6" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtE7" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtE8" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtE9" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Rectangle Name="rtE10" Height="50" Width="40" Fill="White" Margin="0,0,10,0"/>
+                <Image Width="60" Source="ms-appx:///Images/Add.Dark.png" PointerReleased="EP" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

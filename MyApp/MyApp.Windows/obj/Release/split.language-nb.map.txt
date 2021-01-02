@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-nb"
+"ResourceDimensions"		"language-nb"
+"ResourceDimensions"		"language-nb-no"
+
+[Files]
+"D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\split.language-nb.pri"			"resources.pri"

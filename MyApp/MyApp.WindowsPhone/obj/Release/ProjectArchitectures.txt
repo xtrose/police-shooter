@@ -1,0 +1,1 @@
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.WindowsPhone\MyApp.WindowsPhone.csproj;neutral

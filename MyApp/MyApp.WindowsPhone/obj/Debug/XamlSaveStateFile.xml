@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\moses\projekte\windows universal apps\police shooter\myapp\myapp\myapp.windowsphone\obj\debug\intermediatexaml\myapp.windowsphone.exe" HashGuid="9f71f6ec-eca1-7271-4954-6a0098cab4d2" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.common.winmd" HashGuid="67667542-2ed0-db4a-d191-3e7623df243e" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.display.winmd" HashGuid="cc0fb2e7-7a64-f70e-2997-2ad4fbf1cad0" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.ui.winmd" HashGuid="b3d8dc37-2e80-b28f-127b-3083e011fcaf" />
+    <ReferenceAssembly PathName="d:\moses\projekte\windows universal apps\police shooter\myapp\packages\sharpdx.2.6.3\bin\directx11_2-signed-wp81\sharpdx.direct2d1.dll" HashGuid="7408bd93-06cc-d655-c019-72d87c26cf5f" />
+    <ReferenceAssembly PathName="d:\moses\projekte\windows universal apps\police shooter\myapp\packages\sharpdx.2.6.3\bin\directx11_2-signed-wp81\sharpdx.direct3d11.dll" HashGuid="9ac0db88-9d70-8ec5-c2fa-0f2f104e3503" />
+    <ReferenceAssembly PathName="d:\moses\projekte\windows universal apps\police shooter\myapp\packages\sharpdx.2.6.3\bin\directx11_2-signed-wp81\sharpdx.dll" HashGuid="e009d276-7a26-5428-86eb-dfc5676c65f6" />
+    <ReferenceAssembly PathName="d:\moses\projekte\windows universal apps\police shooter\myapp\packages\sharpdx.2.6.3\bin\directx11_2-signed-wp81\sharpdx.dxgi.dll" HashGuid="6e8a8b65-ece7-ebe3-a84e-056f85487216" />
+    <ReferenceAssembly PathName="d:\moses\projekte\windows universal apps\police shooter\myapp\packages\sharpdx.2.6.3\bin\directx11_2-signed-wp81\sharpdx.toolkit.audio.dll" HashGuid="23327a82-5f41-aaa8-fcb2-ddc1d33a4cad" />
+    <ReferenceAssembly PathName="d:\moses\projekte\windows universal apps\police shooter\myapp\packages\sharpdx.2.6.3\bin\directx11_2-signed-wp81\sharpdx.toolkit.dll" HashGuid="ddcaf853-8bbc-aee9-610b-88061d3d71db" />
+    <ReferenceAssembly PathName="d:\moses\projekte\windows universal apps\police shooter\myapp\packages\sharpdx.2.6.3\bin\directx11_2-signed-wp81\sharpdx.toolkit.game.dll" HashGuid="4d7421c5-f686-fac1-96b2-119449f3236d" />
+    <ReferenceAssembly PathName="d:\moses\projekte\windows universal apps\police shooter\myapp\packages\sharpdx.2.6.3\bin\directx11_2-signed-wp81\sharpdx.toolkit.graphics.dll" HashGuid="6d2b507f-0ae5-3905-1057-060b0d11331b" />
+    <ReferenceAssembly PathName="d:\moses\projekte\windows universal apps\police shooter\myapp\packages\sharpdx.2.6.3\bin\directx11_2-signed-wp81\sharpdx.xaudio2.dll" HashGuid="8da10cb8-4a59-bc33-9367-5ca535237fa4" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

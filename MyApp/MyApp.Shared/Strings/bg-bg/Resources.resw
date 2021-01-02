@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="000_description" xml:space="preserve">
+    <value>Зареждане на пистолета и отивам!
+В този голям и прост шутър, в комични книгата стил идва всеки си вкус.
+Само да започнете и да се забавляват.
+Много различни нива и оръжия.</value>
+  </data>
+  <data name="000_language" xml:space="preserve">
+    <value>BG-ни</value>
+  </data>
+  <data name="000_tag1" xml:space="preserve">
+    <value>шутър</value>
+  </data>
+  <data name="000_tag2" xml:space="preserve">
+    <value>Спас Спас Лустиг</value>
+  </data>
+  <data name="000_tag3" xml:space="preserve">
+    <value>полицията стреля</value>
+  </data>
+  <data name="000_tag4" xml:space="preserve">
+    <value>брутална Gewalt пръски</value>
+  </data>
+  <data name="000_tag5" xml:space="preserve">
+    <value>pistole Waffen</value>
+  </data>
+  <data name="000_tag6" xml:space="preserve">
+    <value>гола кучка порно</value>
+  </data>
+  <data name="001_backButton.Text" xml:space="preserve">
+    <value>Назад</value>
+  </data>
+  <data name="001_connectionFailedString" xml:space="preserve">
+    <value>Connaction провали</value>
+  </data>
+  <data name="001_contact.Text" xml:space="preserve">
+    <value>контакти</value>
+  </data>
+  <data name="001_effects.Text" xml:space="preserve">
+    <value>Ефекти</value>
+  </data>
+  <data name="001_leave.Text" xml:space="preserve">
+    <value>Оставете</value>
+  </data>
+  <data name="001_mailButton.Text" xml:space="preserve">
+    <value>Пишете ни</value>
+  </data>
+  <data name="001_musicBy.Text" xml:space="preserve">
+    <value>Музика</value>
+  </data>
+  <data name="001_over" xml:space="preserve">
+    <value>Край на играта</value>
+  </data>
+  <data name="001_pause" xml:space="preserve">
+    <value>Пауза</value>
+  </data>
+  <data name="001_Privacy.Text" xml:space="preserve">
+    <value>Декларация за поверителност</value>
+  </data>
+  <data name="001_PrivacyString" xml:space="preserve">
+    <value>Декларация за поверителност</value>
+  </data>
+  <data name="001_Privacy_2.Text" xml:space="preserve">
+    <value>xtrose софтуер не събира или публикува лична информация, когато използвате това приложение.</value>
+  </data>
+  <data name="001_Privacy_3.Text" xml:space="preserve">
+    <value>Ако искате да съобщите за нарушение на тази политика, моля свържете се с нас на</value>
+  </data>
+  <data name="001_rate.Text" xml:space="preserve">
+    <value>Курсове</value>
+  </data>
+  <data name="001_rateButton.Text" xml:space="preserve">
+    <value>Курсове</value>
+  </data>
+  <data name="001_rateHeader.Text" xml:space="preserve">
+    <value>Моля, оценете тази игра с 5 звезди</value>
+  </data>
+  <data name="001_rateText1" xml:space="preserve">
+    <value>Игри програмиране е трудно и отнема много време. Помогнете ни да разпространява тази игра. така че ние се запази радостта на програмно и и създаде много повече игри.</value>
+  </data>
+  <data name="001_rateText2" xml:space="preserve">
+    <value>Кажете ни как можем да подобрим.</value>
+  </data>
+  <data name="001_selectSide.Text" xml:space="preserve">
+    <value>Изберете вашата страна</value>
+  </data>
+  <data name="001_settings.Text" xml:space="preserve">
+    <value>обстановка</value>
+  </data>
+  <data name="001_start" xml:space="preserve">
+    <value>начало</value>
+  </data>
+  <data name="001_music.Text" xml:space="preserve">
+    <value>музика</value>
+  </data>
+</root>

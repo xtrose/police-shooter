@@ -1,0 +1,278 @@
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\App.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\MainPage.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\About.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Exit.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game2.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game3.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game4.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game5.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game6.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game7.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\MenuMain.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Music.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Rate.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Settings.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\MyApp.Windows.xr.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\MyApp.Windows.exe
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\MyApp.Windows.pdb
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\resources.pri
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\AppxManifest.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\MyApp.Windows.build.appxrecipe
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Microsoft.Advertising.WinRT.UI.winmd
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Microsoft.Advertising.WinRT.UI.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\MicrosoftAdvertising.winmd
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\MicrosoftAdvertising.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Direct2D1.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Direct3D11.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.DXGI.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.Audio.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.Game.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.Graphics.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.XAudio2.dll
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Direct3D11.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.DXGI.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.Audio.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.Game.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.Graphics.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.XAudio2.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Direct2D1.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\App.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\App.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MainPage.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MainPage.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\About.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\About.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Exit.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Exit.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game2.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game2.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game3.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game3.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game4.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game4.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game5.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game5.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game6.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game6.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game7.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game7.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\MenuMain.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\MenuMain.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Music.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Music.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Rate.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Rate.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Settings.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Settings.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\XamlTypeInfo.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\App.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\About.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Exit.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game2.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game3.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game4.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game5.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game6.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game7.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\MenuMain.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Music.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Rate.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Settings.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\App.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\About.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Exit.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game2.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game3.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game4.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game5.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game6.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game7.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\MenuMain.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Music.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Rate.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Settings.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\XamlSaveStateFile.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MainPage.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MainPage.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MyApp.Windows.exe
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MyApp.Windows.pdb
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\en-us\SharpDX.Properties.Resources.resw
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MyApp.Windows.csproj.GenerateResource.Cache
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX.pri
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\qualifiers.txt
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\priconfig.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\priconfig.xml.intermediate
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\layout.resfiles
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\layout.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\resources.resfiles
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\resources.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\pri.resfiles
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\pri.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\qualifiers.txt
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\qualifiers.txt.intermediate
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\ProjectArchitectures.txt
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SettingsFlyout1.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SettingsFlyout1.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SettingsFlyout1.g.cs
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SettingsFlyout1.xaml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SettingsFlyout1.xbf
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\layout.resfiles
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\layout.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\Resources.resfiles
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\Resources.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\pri.resfiles
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\pri.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\priconfig.xml
+D:\Moses\Projekte\Windows Universal Apps\US Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\priconfig.xml.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\App.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\MainPage.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\About.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Exit.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game2.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game3.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game4.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game5.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game6.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game7.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\MenuMain.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Music.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Rate.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Settings.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SettingsFlyout1.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\MyApp.Windows.xr.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\MyApp.Windows.exe
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\MyApp.Windows.pdb
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\resources.pri
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\AppxManifest.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\MyApp.Windows.build.appxrecipe
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Microsoft.Advertising.WinRT.UI.winmd
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Microsoft.Advertising.WinRT.UI.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\MicrosoftAdvertising.winmd
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\MicrosoftAdvertising.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Direct2D1.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Direct3D11.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.DXGI.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.Audio.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.Game.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.Graphics.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.XAudio2.dll
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Direct3D11.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.DXGI.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.Audio.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.Game.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Toolkit.Graphics.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.XAudio2.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\SharpDX.Direct2D1.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MyApp.Windows.csprojResolveAssemblyReference.cache
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\App.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\App.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MainPage.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MainPage.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\About.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\About.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Exit.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Exit.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game2.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game2.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game3.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game3.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game4.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game4.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game5.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game5.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game6.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game6.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game7.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game7.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\MenuMain.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\MenuMain.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Music.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Music.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Rate.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Rate.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Settings.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Settings.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SettingsFlyout1.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SettingsFlyout1.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\XamlTypeInfo.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\App.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MainPage.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\About.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Exit.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game2.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game3.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game4.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game5.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game6.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game7.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\MenuMain.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Music.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Rate.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Settings.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SettingsFlyout1.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\App.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MainPage.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\About.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Exit.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game2.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game3.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game4.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game5.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game6.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game7.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\MenuMain.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Music.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Rate.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Settings.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SettingsFlyout1.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\XamlSaveStateFile.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MyApp.Windows.exe
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MyApp.Windows.pdb
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\en-us\SharpDX.Properties.Resources.resw
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MyApp.Windows.csproj.GenerateResource.Cache
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX.pri
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\qualifiers.txt
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\priconfig.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\priconfig.xml.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\layout.resfiles
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\layout.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\resources.resfiles
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\resources.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\pri.resfiles
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\pri.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\qualifiers.txt
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\qualifiers.txt.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\ProjectArchitectures.txt
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\bin\Release\Pages\Game8.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game8.g.i.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game8.g.cs
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game8.xaml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\Pages\Game8.xbf
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\layout.resfiles
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\layout.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\Resources.resfiles
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\Resources.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\pri.resfiles
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\pri.resfiles.intermediate
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\priconfig.xml
+D:\Moses\Projekte\Windows Universal Apps\Police Shooter\MyApp\MyApp\MyApp.Windows\obj\Release\SharpDX\priconfig.xml.intermediate

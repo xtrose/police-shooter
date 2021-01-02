@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CurrentApp>
+  <ListingInformation>
+
+    <App>
+      <AppId>f45ed97d-df78-4b80-8594-f5a5f668bc2f</AppId>
+      <LinkUri>http://apps.microsoft.com/webpdp/app/f45ed97d-df78-4b80-8594-f5a5f668bc2f</LinkUri>
+      <CurrentMarket>en-us</CurrentMarket>
+      <AgeRating>3</AgeRating>
+      <MarketData xml:lang="en-us">
+        <Name>MyApp</Name>
+        <Description>AppDescription</Description>
+        <Price>0.00</Price>
+        <CurrencySymbol>$</CurrencySymbol>
+        <CurrencyCode>USD</CurrencyCode>
+      </MarketData>
+    </App>
+
+    <Product ProductId="US_Police_Shooter_FV">
+      <MarketData xml:lang="en-us">
+        <Name>Full Version</Name>
+        <Price>0.99</Price>
+        <CurrencySymbol>$</CurrencySymbol>
+        <CurrencyCode>USD</CurrencyCode>
+      </MarketData>
+    </Product>
+
+  </ListingInformation>
+
+  <LicenseInformation>
+    <App>
+      <IsActive>true</IsActive>
+      <IsTrial>false</IsTrial>
+    </App>
+    <Product ProductId="US_Police_Shooter_FV">
+      <IsActive>false</IsActive>
+    </Product>
+  </LicenseInformation>
+</CurrentApp>

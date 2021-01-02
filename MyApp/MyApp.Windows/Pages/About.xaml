@@ -1,0 +1,57 @@
+﻿<Page
+    x:Class="MyApp.Pages.About"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyApp.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Width="800" Height="480">
+
+
+
+    <!--Hauptgrid-->
+    <Grid Background="#FFAFFEF4">
+
+
+        <!--Hintergrundbild-->
+        <Image Source="ms-appx:///Images/About.png" />
+
+        <!--Alpha über Hintergrundbild-->
+        <Rectangle Fill="#CC000000" />
+
+        <!--Bild mit Männla-->
+        <Image Source="ms-appx:///Images/MenuMainForeground.png" Width="204" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="402,156,0,0"/>
+        <Image Source="ms-appx:///Images/MenuMainForeground2.png" Width="199" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="494,295,0,0"/>
+
+        <!--Logo xtrose-->
+        <StackPanel>
+            <Image Source="ms-appx:///Images/400X157_Dark.png" Width="350" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20,20,0,0"/>
+            <TextBlock Foreground="White" Text="73560 Heubach, Germany" Margin="20,10,0,0" FontSize="28" HorizontalAlignment="Left"/>
+        </StackPanel>
+
+        <!--Buttons Rate, Mail-->
+        <StackPanel Margin="20,0,0,20" VerticalAlignment="Bottom" HorizontalAlignment="Left">
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,10">
+                <Image Source="ms-appx:///Images/Rate100X100.png" Width="65" PointerReleased="btnRate"/>
+                <TextBlock x:Uid="001_Rate" Text="Rate" Foreground="White" VerticalAlignment="Center" FontSize="50" Margin="20,0,0,0" PointerReleased="btnRate"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Image Source="ms-appx:///Images/Contact100X100.png" Width="65" PointerReleased="btnContact_PointerReleased" />
+                <TextBlock x:Uid="001_Contact" Text="Contact" Foreground="White" VerticalAlignment="Center" FontSize="50" Margin="20,0,0,0" PointerReleased="btnContact_PointerReleased" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Image Source="ms-appx:///Images/Music.png" Width="65" PointerReleased="BtnMusic" />
+                <TextBlock x:Uid="001_musicBy" Text="Music by" Foreground="White" VerticalAlignment="Center" FontSize="50" Margin="20,0,0,0" PointerReleased="BtnMusic" />
+            </StackPanel>
+        </StackPanel>
+
+        <!--Buttons Communitys-->
+        <StackPanel Margin="0,0,20,20" VerticalAlignment="Bottom" HorizontalAlignment="Right">
+            <Image Source="ms-appx:///Images/x100X100.png" Width="65" Margin="0,0,0,0" PointerReleased="btnWebsite"/>
+            <Image Source="ms-appx:///Images/Facebook100X100.png" Width="65" Margin="0,10,0,10" PointerReleased="btnFacebook"/>
+            <Image Source="ms-appx:///Images/VK100X100.png" Width="65" Margin="0,0,0,10" PointerReleased="BtnVK"  />
+            <Image Source="ms-appx:///Images/Twitter_100X100.png" Width="65" Margin="0,0,0,10" PointerReleased="BtnTwitter" />
+            <Image Source="ms-appx:///Images/YouTube_128X128.png" Width="65" PointerReleased="BtnYT" />
+        </StackPanel>
+    </Grid>
+</Page>
